@@ -54,8 +54,10 @@ What is the maximum number of requests per second the client can make? If the st
 - Only after Round-Trip is finished, the next request starts
 
 So in 1 second, the number of requests possible is:
+
 $$\begin{gather} \text{Requests per second} \approx \frac{1}{\text{Round-trip latency}} \\ = \frac{1}{\text{20 ms}} = \frac{1}{0.02} =
 \text{50 requests/sec} \end{gather}$$
+
 👉 Even if student has **high bandwidth or Fast CPU**, Latency still limits how many requests you can do per second, 
 This is why:
 1. Far-away servers feel slower
