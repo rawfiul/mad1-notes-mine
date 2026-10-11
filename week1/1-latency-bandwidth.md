@@ -99,7 +99,7 @@ During peak time:
   $$\begin{gather}
   \text{total requests/sec $\times$ each request data size
   }\\
-  2000 \times 18.2 \text{ KB} = 36{,}400 \text{ KB/s} \\=  36.4 \text{ MBps}
+  2000 \times 18.2 \text{ KB} = 36{,}400 \text{ KB/s} \=  36.4 \text{ MBps}
   \end{gather}
   $$
 
