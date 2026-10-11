@@ -28,7 +28,14 @@ If communication is **continuous request–response** based:
 >Even though it feels “instant”, the signal still has to physically travel through cables.<br>
 >So, we use basic `Speed=Distance/Time` physics formula from our School Science textbooks!!😃
 >just rearrange it:
-$$\begin{gather} \text{ Time } = \frac{\text{Distance}}{\text{Speed}} \\ \frac{2000 \times 10^3}{2 \times 10^8} \\ = 1 \times 10^{-2} = 10\text{ milliseconds}\end{gather}$$
+$$
+\begin{aligned}
+\text{Time} &= \frac{\text{Distance}}{\text{Speed}} \\
+&= \frac{2000 \times 10^3}{2 \times 10^8} \\
+&= 1 \times 10^{-2} \text{ seconds} \\
+&= 10 \text{ milliseconds}
+\end{aligned}
+$$
 this is **one-way latency**
 
 Calculate the round-trip delay (in ms) i.e. time to go + come-back
