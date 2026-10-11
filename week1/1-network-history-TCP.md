@@ -169,8 +169,8 @@ $$
 
 
 Correct Answer: B) `0000:0000:AC10:0A19`
+
 ![](../static/binary-conversion-table.png)
-:::
 
 
 👉 IP = which machine?
