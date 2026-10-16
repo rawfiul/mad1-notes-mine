@@ -18,10 +18,8 @@ $$\begin{gather}\text{ASCII uses 7-bits, allowing $2^7 = 128$ unique characters}
 But if we want to include `!@# %&*() -Ľätīń/Rõman` symbols, we can use **extended 8-bit encodings**, allowing up to $2^8 =256$ characters! (not global standard)
 
 
-- `"A"` in binary is `01000001`=
-- $2^6+2^0=64+1=65$ 
-- `"a"` in binary is `01100001`=
-- $2^6+ 2^5 + 2^0= 64+32+1=97$
+- `"A"` in binary is `01000001`= $2^6+2^0=64+1=65$ 
+- `"a"` in binary is `01100001`= $2^6+ 2^5 + 2^0= 64+32+1=97$
 - The difference between uppercase and lowercase letters in ASCII is a single bit. <br>the 5th bit (counting from the right, starting at 0) differs. `Uppercase have this bit = 0, lowercase have this bit =1`
 
 :::
