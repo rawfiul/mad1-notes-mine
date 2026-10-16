@@ -68,15 +68,9 @@ UTF-8 is a variable-length encoding used to store Unicode characters efficiently
 ✅ Efficient for English text<br>
 ✅ Can encode all Unicode characters<br>
 ✅ Most common encoding on the Web 🌐
-<iframe
-  width="100%"
-  height="400"
-  src="https://www.youtube.com/embed/MijmeoH9LT4"
-  title="YouTube video player"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen>
-</iframe>
+
+[A small youtube video on UTF-8](https://www.youtube.com/embed/MijmeoH9LT4)
+
 
 - ⚠️UCS-4 uses 4 bytes per character so even simple character 'A' wastes `32 bits`
   - ✅Use short encodings for common characters (1 byte for alphabets)
