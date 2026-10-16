@@ -10,7 +10,7 @@ Computers ultimately work with **bits** (0 and 1). So we need some Standard “e
 
 ::: tip American Standard Code for **Information Interchange**: is a character encoding used by machines to represent text → assigns a unique numerical value to each character. 
 
-$$\begin{gather}\text{ASCII uses 7-bits, allowing $2^7 = 128$ unique characters} \\ \text{i.e. digits + uppercase and lowercase English alphabets + control symbols}
+$$\begin{gather}\text{ASCII uses 7-bits, allowing $2^7 = 128$ unique characters} \\ \text{i.e. digits + uppercase and lowercase English alphabets + control symbols} \br
 \underbrace{0...9}_{48 -57}+\underbrace{A...Z}_{65 -90}+ \underbrace{a...z}_{97-122}
 \end{gather}$$
 
