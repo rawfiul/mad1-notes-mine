@@ -251,7 +251,7 @@ Named colors can be used for simplicity, for more precise colors, use `RGB (red-
     border-radius: 12px;
   "
   loading="lazy"
-></iframe>
+>i</iframe>
 
 :::
 
